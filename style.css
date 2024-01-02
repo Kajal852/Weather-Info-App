@@ -1,0 +1,40 @@
+#main {
+    text-align: center;
+    border: 15px groove #457edf; 
+    height: 870px;
+    font-family: cursive;
+    border-radius: 50px;
+    padding: 5px;
+    background-color: whitesmoke;
+}
+
+input[type=submit] {
+    background-color: #CC3366;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 24px;
+    height: 70px;
+    width: 200px;
+    font-family: cursive;
+    margin-top: 5px;
+}
+
+input[type=submit]:hover {
+    background-color: #457edf;
+}
+
+input[type=text] {
+    font-family: cursive;
+    text-align: center;
+    font-size: 24px;
+    color: #457edf;
+    height: 90px;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+p {
+    font-size: 17px;
+}
